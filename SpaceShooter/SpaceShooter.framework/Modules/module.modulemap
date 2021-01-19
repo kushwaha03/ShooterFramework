@@ -1,0 +1,6 @@
+framework module SpaceShooter {
+  umbrella header "SpaceShooter.h"
+
+  export *
+  module * { export * }
+}
